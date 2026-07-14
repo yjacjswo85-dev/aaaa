@@ -16,3 +16,11 @@ for(int i=0 ; i < 5 ; i++)
 > The Slings and Arrows of outrageous Fortune,
 
 How big are these slings and in particular, these arrows?
+
+I :eyes: that :bug: and I :cold_sweat:.
+
+:trophy: for :microscope: it.
+
+:+1: and :sparkles: on this :ship:, it's :fire::poop:!
+
+:clap::tada::panda_face:
