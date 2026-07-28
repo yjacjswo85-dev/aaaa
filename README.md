@@ -33,4 +33,4 @@ I :eyes: that :bug: and I :cold_sweat:.
 
 또 다시 새로운 커밋
 
-충돌 1
+충돌 해결
