@@ -32,3 +32,5 @@ I :eyes: that :bug: and I :cold_sweat:.
 다시 새로운 커밋
 
 또 다시 새로운 커밋
+
+충돌 1
